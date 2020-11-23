@@ -1,0 +1,3 @@
+test.o 
+x_mem_core.o 
+x_mem_interface.o 
